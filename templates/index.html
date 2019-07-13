@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>UNIQLO or YOHJI</title>
+</head>
+<body>
+　{% if predict %}
+   <img SRC="{{filepath}} " BORDER="1"> <p>{{predict}}</p><br>
+   <hr>
+　{% endif %}
+　<h2>ファイルを選択して送信してください</h2><br>
+　<form action = "./" method = "POST" enctype = "multipart/form-data">
+    <input type = "file" name = "file" />
+    <input type = "submit"/>
+　</form>
+</body>
+</html>

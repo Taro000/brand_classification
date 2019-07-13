@@ -1,0 +1,14 @@
+taichi_project/
+
+datasets/
+
+venv/
+
+.idea/
+
+main_copy.tar.gz
+
+*.h5
+main_copy.tar.gz
+venv/lib/python3.6/site-packages/tensorflow/python/_pywrap_tensorflow_internal.so
+.git/objects/pack/pack-4b9fecb956a2900feed9fa2118080350f56734fb.pack
