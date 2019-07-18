@@ -1,7 +1,7 @@
 # Brand recognition
-- Classfiy UNIQLO and YOHJI YAMAMOTO with VGG16 which is trained by finetuning with a small number of gun-dataset
+- Classfiy UNIQLO and YOHJI YAMAMOTO with VGG16 which is trained by fine-tuning with a small number of gun-dataset
 
-## Slides about preprocess anf Finetunig
+## Slides about preprocessing and Fine-tunig
 <img width="863" alt="スクリーンショット 2019-07-18 10 17 22" src="https://user-images.githubusercontent.com/30229356/61422287-fdf46280-a945-11e9-9407-c01fd3cf99ac.png">
 
 <img width="863" alt="スクリーンショット 2019-07-18 10 17 29" src="https://user-images.githubusercontent.com/30229356/61422328-309e5b00-a946-11e9-8a6d-5c5e1462fb72.png">
