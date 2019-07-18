@@ -1,4 +1,4 @@
-# Brand recognition
+# Brand Classification
 - Classfiy UNIQLO and YOHJI YAMAMOTO with VGG16 which is trained by fine-tuning with a small number of gun-dataset
 
 ## Slides about preprocessing and Fine-tunig
